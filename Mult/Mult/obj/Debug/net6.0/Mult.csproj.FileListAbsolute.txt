@@ -1,0 +1,15 @@
+C:\Users\laris\Documents\teste gft\Mult\Mult\bin\Debug\net6.0\Mult.exe
+C:\Users\laris\Documents\teste gft\Mult\Mult\bin\Debug\net6.0\Mult.deps.json
+C:\Users\laris\Documents\teste gft\Mult\Mult\bin\Debug\net6.0\Mult.runtimeconfig.json
+C:\Users\laris\Documents\teste gft\Mult\Mult\bin\Debug\net6.0\Mult.dll
+C:\Users\laris\Documents\teste gft\Mult\Mult\bin\Debug\net6.0\ref\Mult.dll
+C:\Users\laris\Documents\teste gft\Mult\Mult\bin\Debug\net6.0\Mult.pdb
+C:\Users\laris\Documents\teste gft\Mult\Mult\obj\Debug\net6.0\Mult.csproj.AssemblyReference.cache
+C:\Users\laris\Documents\teste gft\Mult\Mult\obj\Debug\net6.0\Mult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\Documents\teste gft\Mult\Mult\obj\Debug\net6.0\Mult.AssemblyInfoInputs.cache
+C:\Users\laris\Documents\teste gft\Mult\Mult\obj\Debug\net6.0\Mult.AssemblyInfo.cs
+C:\Users\laris\Documents\teste gft\Mult\Mult\obj\Debug\net6.0\Mult.csproj.CoreCompileInputs.cache
+C:\Users\laris\Documents\teste gft\Mult\Mult\obj\Debug\net6.0\Mult.dll
+C:\Users\laris\Documents\teste gft\Mult\Mult\obj\Debug\net6.0\ref\Mult.dll
+C:\Users\laris\Documents\teste gft\Mult\Mult\obj\Debug\net6.0\Mult.pdb
+C:\Users\laris\Documents\teste gft\Mult\Mult\obj\Debug\net6.0\Mult.genruntimeconfig.cache
