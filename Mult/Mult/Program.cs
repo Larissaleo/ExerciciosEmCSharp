@@ -50,10 +50,10 @@ class Program{
 
         
 
-        for(i=inicioIntervalo; i<fimIntervalo; i++){
+        for(i=inicioIntervalo; i<=fimIntervalo; i++){
 
 
-            if(i<fimIntervalo){
+            if(i<=fimIntervalo){
             produto = multiplicando *i ;
 
             Console.WriteLine("{0} X {1} = {2}", multiplicando, i, produto);
