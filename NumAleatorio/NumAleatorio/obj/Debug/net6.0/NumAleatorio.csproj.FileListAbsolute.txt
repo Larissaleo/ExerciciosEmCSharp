@@ -1,0 +1,15 @@
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\obj\Debug\net6.0\NumAleatorio.csproj.AssemblyReference.cache
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\obj\Debug\net6.0\NumAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\obj\Debug\net6.0\NumAleatorio.AssemblyInfoInputs.cache
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\obj\Debug\net6.0\NumAleatorio.AssemblyInfo.cs
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\obj\Debug\net6.0\NumAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\bin\Debug\net6.0\NumAleatorio.exe
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\bin\Debug\net6.0\NumAleatorio.deps.json
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\bin\Debug\net6.0\NumAleatorio.runtimeconfig.json
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\bin\Debug\net6.0\NumAleatorio.dll
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\bin\Debug\net6.0\ref\NumAleatorio.dll
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\bin\Debug\net6.0\NumAleatorio.pdb
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\obj\Debug\net6.0\NumAleatorio.dll
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\obj\Debug\net6.0\ref\NumAleatorio.dll
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\obj\Debug\net6.0\NumAleatorio.pdb
+C:\Users\laris\Documents\teste gft\NumAleatorio\NumAleatorio\obj\Debug\net6.0\NumAleatorio.genruntimeconfig.cache
