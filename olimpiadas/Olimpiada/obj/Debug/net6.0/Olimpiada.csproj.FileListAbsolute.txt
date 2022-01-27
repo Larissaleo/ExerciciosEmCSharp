@@ -1,0 +1,15 @@
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\obj\Debug\net6.0\Olimpiada.csproj.AssemblyReference.cache
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\obj\Debug\net6.0\Olimpiada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\obj\Debug\net6.0\Olimpiada.AssemblyInfoInputs.cache
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\obj\Debug\net6.0\Olimpiada.AssemblyInfo.cs
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\obj\Debug\net6.0\Olimpiada.csproj.CoreCompileInputs.cache
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\bin\Debug\net6.0\Olimpiada.exe
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\bin\Debug\net6.0\Olimpiada.deps.json
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\bin\Debug\net6.0\Olimpiada.runtimeconfig.json
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\bin\Debug\net6.0\Olimpiada.dll
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\bin\Debug\net6.0\ref\Olimpiada.dll
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\bin\Debug\net6.0\Olimpiada.pdb
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\obj\Debug\net6.0\Olimpiada.dll
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\obj\Debug\net6.0\ref\Olimpiada.dll
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\obj\Debug\net6.0\Olimpiada.pdb
+C:\Users\laris\Documents\teste gft\olimpiadas\Olimpiada\obj\Debug\net6.0\Olimpiada.genruntimeconfig.cache
