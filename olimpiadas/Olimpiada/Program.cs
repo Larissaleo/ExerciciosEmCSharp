@@ -16,7 +16,7 @@ namespace Olimpiada
            
             Console.WriteLine("Atletas:");
 
-            while(i<3)
+            while(i<10)
             {   
                 
 
@@ -32,7 +32,18 @@ namespace Olimpiada
                 j++;
                i++; 
             }
-         
+
+                var atletasOrdenados = atletas.OrderByDescending(x => x.Distancia).ToList();
+
+                var atletaOuro = atletasOrdenados[0];
+                var atletaPrata = atletasOrdenados[1];
+                var atletaBronze = atletasOrdenados[2];
+                Console.WriteLine("");
+                Console.WriteLine("Medalistas:");
+                Console.WriteLine("");
+                Console.WriteLine($"Ouro: {atletaOuro.Nome} - {atletaOuro.Pais} Resultado: {atletaOuro.Distancia}m");
+                Console.WriteLine($"Prata: {atletaPrata.Nome} - {atletaPrata.Pais} Resultado: {atletaPrata.Distancia}m");
+                Console.WriteLine($"Bronze: {atletaBronze.Nome} - {atletaBronze.Pais} Resultado: {atletaBronze.Distancia}m");
                
                     
 
