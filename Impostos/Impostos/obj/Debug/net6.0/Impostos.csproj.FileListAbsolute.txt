@@ -1,0 +1,15 @@
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\bin\Debug\net6.0\Impostos.exe
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\bin\Debug\net6.0\Impostos.deps.json
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\bin\Debug\net6.0\Impostos.runtimeconfig.json
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\bin\Debug\net6.0\Impostos.dll
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\bin\Debug\net6.0\ref\Impostos.dll
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\bin\Debug\net6.0\Impostos.pdb
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\obj\Debug\net6.0\Impostos.csproj.AssemblyReference.cache
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\obj\Debug\net6.0\Impostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\obj\Debug\net6.0\Impostos.AssemblyInfoInputs.cache
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\obj\Debug\net6.0\Impostos.AssemblyInfo.cs
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\obj\Debug\net6.0\Impostos.csproj.CoreCompileInputs.cache
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\obj\Debug\net6.0\Impostos.dll
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\obj\Debug\net6.0\ref\Impostos.dll
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\obj\Debug\net6.0\Impostos.pdb
+C:\Users\laris\Documents\teste gft\Impostos\Impostos\obj\Debug\net6.0\Impostos.genruntimeconfig.cache
