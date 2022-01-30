@@ -1,0 +1,15 @@
+C:\CSharp\teste gft\ExercicioCirculo\bin\Debug\net6.0\ExercicioCirculo.exe
+C:\CSharp\teste gft\ExercicioCirculo\bin\Debug\net6.0\ExercicioCirculo.deps.json
+C:\CSharp\teste gft\ExercicioCirculo\bin\Debug\net6.0\ExercicioCirculo.runtimeconfig.json
+C:\CSharp\teste gft\ExercicioCirculo\bin\Debug\net6.0\ExercicioCirculo.dll
+C:\CSharp\teste gft\ExercicioCirculo\bin\Debug\net6.0\ref\ExercicioCirculo.dll
+C:\CSharp\teste gft\ExercicioCirculo\bin\Debug\net6.0\ExercicioCirculo.pdb
+C:\CSharp\teste gft\ExercicioCirculo\obj\Debug\net6.0\ExercicioCirculo.csproj.AssemblyReference.cache
+C:\CSharp\teste gft\ExercicioCirculo\obj\Debug\net6.0\ExercicioCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\teste gft\ExercicioCirculo\obj\Debug\net6.0\ExercicioCirculo.AssemblyInfoInputs.cache
+C:\CSharp\teste gft\ExercicioCirculo\obj\Debug\net6.0\ExercicioCirculo.AssemblyInfo.cs
+C:\CSharp\teste gft\ExercicioCirculo\obj\Debug\net6.0\ExercicioCirculo.csproj.CoreCompileInputs.cache
+C:\CSharp\teste gft\ExercicioCirculo\obj\Debug\net6.0\ExercicioCirculo.dll
+C:\CSharp\teste gft\ExercicioCirculo\obj\Debug\net6.0\ref\ExercicioCirculo.dll
+C:\CSharp\teste gft\ExercicioCirculo\obj\Debug\net6.0\ExercicioCirculo.pdb
+C:\CSharp\teste gft\ExercicioCirculo\obj\Debug\net6.0\ExercicioCirculo.genruntimeconfig.cache
